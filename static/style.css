@@ -1,0 +1,56 @@
+body {
+	margin: 0 auto;
+	background: #f8f8f8;
+	padding: 40px 0;
+	font-family: Myriad, "Myriad Pro", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+}
+
+.content {
+	background: #fff;
+	width: 540px;
+	padding: 30px;
+	margin: 0 auto;
+}
+
+p {
+	font-size: 14px;
+	line-height: 24px;
+	margin: 0 0 10px 0;
+}
+
+.intro {
+	text-align: center;
+	font-size: 17px;
+	line-height: 30px;
+}
+
+.outro {
+	text-align: center;
+	font-weight: bold;
+	margin-top: 40px;
+}
+
+.outro small {
+	font-size: 11px;
+	font-weight: normal;
+}
+
+.outro a { color: #ff8a00;}
+
+.link img {}
+
+h2 {
+	font-size: 16px;
+	margin: 0 0 5px 0;
+	font-weight: bold;
+}
+
+img {
+	margin: 0 0 20px 0;
+}
+
+ul li {
+	font-size: 14px;
+	margin-bottom: 8px;
+}
