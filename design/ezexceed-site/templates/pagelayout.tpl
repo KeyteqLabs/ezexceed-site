@@ -12,7 +12,9 @@
     {include uri='design:page_head_script.tpl'}
 
     {ezcss_require(ezini('StylesheetSettings', 'AdminCSSFileList', 'design.ini') )}
-    {ezcss_load()}
+    {ezcss_load(array(
+        'websitetoolbar.css'
+    ))}
     {ezcss(ezini('StylesheetSettings', 'EndUserCSSFileList', 'design.ini') )}
 
     {ezscript_require( array(
