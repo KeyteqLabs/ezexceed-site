@@ -38,6 +38,20 @@ p {
 
 a { color: #ff8a00;}
 
+a.button {
+    color: rgba(64, 0, 0, 0.9);
+    border: 1px solid #D67F00;
+    background: #FF9C00;
+    padding: 0 12px;
+    border-radius: 3px;
+    display: inline-block;
+    text-transform: none;
+    text-decoration: none;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 1px white, 0 1px 0 rgba(255, 255, 255, 0.1) inset;
+    font: normal normal 12px/24px HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 h2 {
 	color: black;
 	font-size: 16px;

@@ -1,9 +1,3 @@
-{foreach $node.data_map as $attr}
-    {attribute_view_gui attribute=$attr}
-{/foreach}
-
-<h3>{"More"|i18n}</h3>
-
 <section class="node-children">
     {foreach $node.children as $child}
     <div>

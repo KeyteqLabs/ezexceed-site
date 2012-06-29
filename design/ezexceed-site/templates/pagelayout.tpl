@@ -33,7 +33,7 @@
 <!--[if IE 8 ]>   <body class="ie8"><![endif]-->
 <!--[if (gt IE 8)|!(IE)]><!--><body><!--<![endif]-->
 
-{include uri='design:page_toolbar.tpl'}
+{include uri='design:parts/website_toolbar.tpl'}
 
 <div id="page" class="clear">
     <div id="content">
