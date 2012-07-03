@@ -23,9 +23,6 @@
         'ezjsc::jquery'
     ))}
 
-    <meta name="viewport" content="user-scalable=0;">
-    <meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=0;">
-
     {literal}
     <script type="text/javascript">
 
