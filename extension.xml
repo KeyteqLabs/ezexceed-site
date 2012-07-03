@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <software>
+    <deploy>
+        <site>ezexceed</site>
+        <extension>ezexceed-site</extension>
+    </deploy>
+
     <metadata>
         <name>eZ Exceed site</name>
     </metadata>
 
     <dependencies>
         <requires>
-            <extension name="ezexceed" />
+            <extension name="ezexceed" branch="develop" />
         </requires>
     </dependencies>
 </software>
