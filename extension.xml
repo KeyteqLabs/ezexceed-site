@@ -11,7 +11,7 @@
 
     <dependencies>
         <requires>
-            <extension name="ezexceed" branch="develop" />
+            <extension name="ezexceed" branch="1.2" />
         </requires>
     </dependencies>
 </software>
